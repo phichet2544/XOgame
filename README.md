@@ -15,8 +15,9 @@ https://github.com/user-attachments/assets/273edb05-8555-41b6-9418-2badbdf0b7a3
 <img src="https://imgur.com/u5a4b6r.jpg" alt="รูปภาพ" width="250" height="500">
 
 2.หน้าเล่นผู้เล่นจะเป็นเริ่มก่อนบอท จะมีการเช็คว่าใครชนะหรือเสมอ และเลือกจะเล่นเกมใหม่หรือบันทึกแล้วออก
-
+ 
 <img src="https://imgur.com/v1tNodO.jpg" alt="รูปภาพ" width="250" height="500">
+<img src="https://imgur.com/YWorNyk.jpg" alt="รูปภาพ" width="250" height="500">
 
 3.การบันทึกค่า
 
