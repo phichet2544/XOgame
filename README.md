@@ -1,7 +1,6 @@
 # XOgame
 ตัวอย่างเกม XO
-https://github.com/user-attachments/assets/273edb05-8555-41b6-9418-2badbdf0b7a3
-
+https://github.com/phichet2544/XOgame/issues/1#issue-2711719069
 
 
 มีการทำงาน
