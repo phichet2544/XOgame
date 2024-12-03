@@ -42,6 +42,6 @@ https://github.com/user-attachments/assets/273edb05-8555-41b6-9418-2badbdf0b7a3
 
 ใช้วิธีเก็บค่า timeselect มาเปลี่ยนเทียบกับ select
 
-<img src="https://imgur.com/gJJt89F.jpg" alt="รูปภาพ" width="800" height="300">
+<img src="https://imgur.com/rlwDcUA.jpg" alt="รูปภาพ" width="800" height="300">
 
 
